@@ -1,0 +1,15 @@
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).csproj.AssemblyReference.cache
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).AssemblyInfoInputs.cache
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).AssemblyInfo.cs
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).csproj.CoreCompileInputs.cache
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\bin\Debug\net6.0\Asm2_HNHL(1).exe
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\bin\Debug\net6.0\Asm2_HNHL(1).deps.json
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\bin\Debug\net6.0\Asm2_HNHL(1).runtimeconfig.json
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\bin\Debug\net6.0\Asm2_HNHL(1).dll
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\bin\Debug\net6.0\Asm2_HNHL(1).pdb
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).dll
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\refint\Asm2_HNHL(1).dll
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).pdb
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\Asm2_HNHL(1).genruntimeconfig.cache
+D:\C#\ASM2-1651\Asm2_HNHL(1)\Asm2_HNHL(1)\obj\Debug\net6.0\ref\Asm2_HNHL(1).dll
